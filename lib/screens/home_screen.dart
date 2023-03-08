@@ -36,7 +36,7 @@ class HomeScreen extends StatelessWidget {
           onPressed: () {
             context.read<RandomNumberBloc>().add(GenerateRandomNumber());
           },
-          child: Icon(Icons.add_circle)),
+          child: Icon(Icons.restart_alt)),
     );
   }
 }
