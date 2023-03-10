@@ -1,16 +1,10 @@
-# bloc_random_number_learning_app
+# Bloc random number app
 
-A new Flutter project.
+Simplest bloc approach used in app that generates random number for each FAB click.
+Bloc components was created with Android Studio extension. Bloc use Equatable for comparing states.
+Bloc builder uses bloc to display correct UI for current state.
 
-## Getting Started
+ <p align="center">
+ <img align="center" alt="keystrokes" src="https://raw.githubusercontent.com/pawelwiklo/bloc-random-number-learning/master/gifs/random_number.gif" />
+ </p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
